@@ -3,7 +3,6 @@ welcome to kiit in second line using single printf */
 
 
 
-
 #include<stdio.h>
 void main(){
     printf("hello world!\n welcome to kiit");
